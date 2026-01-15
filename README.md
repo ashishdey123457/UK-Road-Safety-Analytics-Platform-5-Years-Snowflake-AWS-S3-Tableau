@@ -150,15 +150,6 @@ Validation checks included:
 
 ---
 
-## Future Improvements
-
-- Add code-to-label mapping tables for readable category names (severity, weather, road type)
-- Add a time dimension for deeper month/day/hour analysis
-- Add automated load monitoring and error logging
-- Create additional aggregated marts for faster dashboard performance
-
----
-
 ## Author
 
 Created by Ashish Dey
