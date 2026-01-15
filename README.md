@@ -4,10 +4,7 @@
 https://public.tableau.com/views/tableausnowflakedashboardUKRoadAccident/Dashboard1
 
 ## Dashboard Preview
-(Add a screenshot here for better visibility)
-<!-- Example:
-<img width="1919" height="1079" alt="Dashboard Preview" src="PASTE_IMAGE_URL_HERE" />
--->
+<img width="1498" height="904" alt="Image" src="https://github.com/user-attachments/assets/886aa4cd-7ee2-4e5b-a85f-1935a2c8ab75" />
 
 ---
 ## Data Source
